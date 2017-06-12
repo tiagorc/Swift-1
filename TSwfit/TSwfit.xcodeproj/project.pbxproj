@@ -11,7 +11,7 @@
 		B4DF8466194486EE00B5D2F0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4DF8465194486EE00B5D2F0 /* AppDelegate.swift */; };
 		B4DF8468194486EE00B5D2F0 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B4DF8467194486EE00B5D2F0 /* Images.xcassets */; };
 		B4DF8474194486EE00B5D2F0 /* TSwfitTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4DF8473194486EE00B5D2F0 /* TSwfitTests.swift */; };
-		B4DF84801944872200B5D2F0 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4DF847D1944872200B5D2F0 /* DetailViewController.swift */; };
+		B4DF84801944872200B5D2F0 /asdasd* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4DF847D1944872200B5D2F0 /* DetailViewController.swift */; };
 		B4DF84891944873300B5D2F0 /* RootViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4DF84841944873300B5D2F0 /* RootViewController.swift */; };
 		B4DF848A1944873300B5D2F0 /* swift-hero@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B4DF84851944873300B5D2F0 /* swift-hero@2x.png */; };
 		B4DF8490194487F200B5D2F0 /* MathSum.m in Sources */ = {isa = PBXBuildFile; fileRef = B4DF848F194487F200B5D2F0 /* MathSum.m */; };
